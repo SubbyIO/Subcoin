@@ -1,10 +1,9 @@
 Subcoin integration/staging tree
 ================================
-
-http://www.subcoin.org
+A crypto currency created by a 17 Year old.
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Subcoin Developers
+Copyright (c) 2011-2017 Subcoin Developers
 
 What is Subcoin?
 ----------------
@@ -19,7 +18,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Subcoin client sofware, see http://www.subcoin.org.
+the Subcoin client sofware
 
 License
 -------
@@ -45,7 +44,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/subcoin-project/subcoin/tags) are created
+completely stable. [Tags](https://github.com/SubbyIO/Subcoin/tags) are created
 regularly to indicate new official, stable release versions of Subcoin.
 
 Testing
